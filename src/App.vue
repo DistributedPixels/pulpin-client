@@ -1,6 +1,5 @@
 <template>
-    <main>
-    Pulpin 🐙
+  <main>
+    <RouterView />
   </main>
 </template>
-
