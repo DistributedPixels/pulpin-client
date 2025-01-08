@@ -9,5 +9,5 @@
   "plugins": [
     "prettier-plugin-tailwindcss"
   ],
-  "endOfLine": "crlf"
+  "endOfLine": "lf"
 }
