@@ -1,4 +1,4 @@
-import { Chip } from '@nextui-org/chip';
+import { Chip } from '@heroui/chip';
 
 export default function HomePage() {
   return (
