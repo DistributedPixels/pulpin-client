@@ -1,0 +1,28 @@
+.admin-layout {
+  background-color: #f4f9fd;
+  min-height: 100vh;
+
+    &__navbar{
+      background-color: #3376ad;
+      color: white;
+
+      &-content{
+        width: 100%;
+        gap: 1rem;
+      }
+
+
+      &-link{
+        color: white;
+        text-decoration: none;
+
+        &--active{
+          text-decoration: underline;
+        }
+      }
+    }
+
+  &__content{
+    padding: 2rem;
+  }
+}
